@@ -7,7 +7,7 @@
 * En la parte que se desarrolla el sistema de guardado y cargado de datos hay una parte al inicio que desarrolla mas sobre este tema
 * Junto con todo esto, podemos guardar cientos de datos de una forma bastante sencilla
 * Algunos de estos datos pueden ir de lo mas simple: puntuacion, monedas, niveles, hacia cosas mas complejas: que items tenemos o no comprados (en arrays o listas), configuraciones (volumen, brillo, fondo), entre otras muchas cosas
-* Importante ver el archivo gamehandler.gd ya que este es el que tiene todas estas preciadas lineas de codigo
+* Importante ver el archivo [gamehandler.gd](https://github.com/MarcoPaoletta/Dictionaries-Save-Load/blob/master/rsc/gamehandler/gamehandler.gd) ya que este es el que tiene todas estas preciadas lineas de codigo
 
 --- 
 # Descargar Godot Engine e importar el proyecto
